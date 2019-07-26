@@ -6,7 +6,7 @@ BUILD_DIR=$1
 CACHE_DIR=$2
 
 # config
-VERSION="4.4.5"
+VERSION="4.1.4"
 MINOR_VERSION="5.2"
 
 # LibreOffice Binaries URL
